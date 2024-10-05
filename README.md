@@ -25,8 +25,14 @@
    - Copy the shaderpack files from the extracted ZIP folder and paste them into the `shaderpacks` folder.
 
 6. **Using Installers**
-   - Open the `installers` folder from the extracted ZIP folder.
+   - Open the `installer` folder from the extracted ZIP folder.
    - Run the installer files to complete the installation.
+
+   **Using JAR File Installer on macOS**
+   - Open the `installer` folder from the extracted ZIP folder.
+   - Double-click on the `.jar` file to run the installer.
+   - Follow the on-screen instructions to complete the installation.
+
 
 That's it! Enjoy your mods and shaderpacks!
 ```
