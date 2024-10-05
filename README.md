@@ -1,5 +1,3 @@
-Here is an updated version of the README.md with instructions for 12-year-olds:
-
 ```
 # rvnkmods
 
