@@ -14,21 +14,31 @@
    - Right-click on the ZIP file and select "Extract All..." to unzip the files.
 
 4. **Install Mods**
+
+   **Windows**
    - Press `Win + R` on your keyboard to open the Run dialog box.
    - Type `%appdata%` and press Enter.
    - Open the `.minecraft` folder.
    - Open the `mods` folder.
    - Copy the mod files from the extracted ZIP folder and paste them into the `mods` folder.
 
+   **macOS**
+   - Open Finder and press Cmd + Shift + G to open the "Go to Folder" dialog.
+   - Type ~/Library/Application Support/minecraft and press Enter.
+   - Open the mods folder.
+   - Copy the mod files from the extracted ZIP folder and paste them into the mods folder.
+
 5. **Install Shaderpacks**
    - Still in the `.minecraft` folder, open the `shaderpacks` folder.
    - Copy the shaderpack files from the extracted ZIP folder and paste them into the `shaderpacks` folder.
 
 6. **Using Installers**
+
+   **Windows**
    - Open the `installer` folder from the extracted ZIP folder.
    - Run the installer files to complete the installation.
 
-   **Using JAR File Installer on macOS**
+   **macOS**
    - Open the `installer` folder from the extracted ZIP folder.
    - Double-click on the `.jar` file to run the installer.
    - Follow the on-screen instructions to complete the installation.
