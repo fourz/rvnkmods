@@ -1,4 +1,4 @@
-```
+
 # rvnkmods
 
 ## How to Install Mods and Shaderpacks
@@ -43,8 +43,39 @@
    - Double-click on the `.jar` file to run the installer.
    - Follow the on-screen instructions to complete the installation.
 
+7. That's it! Enjoy your mods and shaderpacks!
 
-That's it! Enjoy your mods and shaderpacks!
-```
+## About the mods
 
-You can copy and paste this into your README.md file.
+## Base Mods
+- Fabric Launcher
+   Fabric is a modular, lightweight mod loader for Minecraft. It is required for all mods on this page to work.
+
+- Fabric API
+   Fabric API is the core library for mods using the Fabric toolchain. It is required for most mods on this page to work.
+
+## Performance Improvements
+- Sodium + Iris
+   Sodium is a fabric mod that rewrites parts of the vanilla rendering system to optimize for performance. Iris adds support for custom shaders.
+
+## Shaders
+- Complementary Shaders
+   Complementary Shaders is a shader pack with exceptional attention to detail, high standards of quality, and top-tier optimization.
+
+## QOL Improvements
+- Mod Menu
+   Mod Menu adds a menu screen for viewing a list of installed mods.
+
+- Xaero’s Minimap
+   Xaero’s Minimap is a minimap mod with customizable settings, entity display, waypoints, and cave mode.
+
+- Shulker Box Tooltip
+   Shulker Box Tooltip allows you to see a preview window of a shulker box’s contents when hovering above it in an inventory.
+
+- Logical Zoom
+   Logical Zoom is a simple mod that adds a configurable zoom key (as with Optifine).
+
+## Visual Improvements
+- Distant Horizons + Indium
+   Distant Horizons adds simplified terrain past Minecraft’s default view distance to improve performance and allow for longer draw distances. Indium is a Sodium addon providing support for the Fabric Rendering API, based on Indigo.
+
